@@ -8,4 +8,25 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
-{@render children()}
+<header>
+	<nav>
+	
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+		</ul>
+	
+	</nav>
+</header>
+
+
+<main>
+	
+	{@render children()}
+
+</main>
+
+
+<footer>
+	<p>Powered by: CIA vagy nemtom</p>
+</footer>
