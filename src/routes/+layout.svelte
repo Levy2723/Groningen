@@ -12,8 +12,9 @@
 	<nav>
 	
 		<ul>
-			<li><a href="/">Home</a></li>
-			<li><a href="/about">About</a></li>
+			<li><a href="/">Főoldal</a></li>
+			<li><a href="/divalysz">Belépés az Élilyen Kommunikációs Diválysz™-hoz</a></li>
+			<li><a href="/about">Az Élilyen™-ekről</a></li>
 		</ul>
 	
 	</nav>
