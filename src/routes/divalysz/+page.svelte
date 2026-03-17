@@ -2,7 +2,7 @@
 
 <p>Valami</p>
 
-<form action="/test" method="POST">
+<form method="POST">
 
     <label for="name">
         Név
@@ -18,5 +18,7 @@
         Az Élilyen™-ek részére szánt üzenet
         <textarea name="message" rows="24" cols="240" required>Kedves Élilyen™-ek...</textarea>
     </label>
+
+    <button type="submit">Küldés</button>
 
 </form>
