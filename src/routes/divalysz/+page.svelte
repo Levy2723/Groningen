@@ -1,6 +1,6 @@
 <h1>Élilyen Kommunikációs Diválysz™</h1>
 
-<p>Valami</p>
+<p>Valami catchy szoveg, hogy miert irj levelet az elijeneknek</p>
 
 <form method="POST">
 
