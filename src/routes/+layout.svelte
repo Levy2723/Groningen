@@ -35,6 +35,11 @@
 
 <style>
 
+	main {
+		width: 80%;
+		margin: auto;
+	}
+
 	a {
 		text-decoration: none;
 		
