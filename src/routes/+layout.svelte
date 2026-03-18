@@ -29,7 +29,7 @@
 
 
 <footer>
-	<p>Powered by: CIA vagy nemtom</p>
+	<p>Powered by: CIA és a shadow gowerment</p>
 </footer>
 
 
