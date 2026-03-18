@@ -1,6 +1,6 @@
 <h1>Élilyen Kommunikációs Diválysz™</h1>
 
-<p>Valami catchy szoveg, hogy miert irj levelet az elijeneknek</p>
+<p>Az Élilyen™-ek megmodják neked bármilyen alakzat felületi-gradiánsát (akár 4. dimenziósnak is) </p>
 
 <form method="POST">
 
